@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@sap/approuter": "^10.12.0"
+    "@sap/approuter": "^14.1.1"
   }
 }
